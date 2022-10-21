@@ -1,0 +1,98 @@
+@media only screen and (max-width: 455px){
+    .hero {
+            width: 100%;
+    }   
+    .Online-Training .container {
+        margin-left: -60px;
+    }
+    .skileton {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-left:-160px;
+    }
+    .Product-cards .practice-advice {
+        display: flex;
+        flex-direction: column;  
+        margin-left: -150px;
+    }
+    .statistic {
+        width: 100%;
+    }
+    .Video .child {
+        width: 100%;
+        margin-top: 50px;
+    }
+    .Most-Trusted .statistic {
+        width: 100%;
+    }
+    .Video .row {
+        display: flex;
+        flex-direction: column;
+        width: 250px;
+        margin-left: -80px;
+    }
+    .Video .row .commonTitle {
+        font-size: 26px;
+    }
+    .Subscribe .search {
+        width: 70%;
+        margin-left: -80px;
+    }
+    .Subscribe .btnSubscribe {
+        margin-left: 200px;
+    }
+    .Credit .row .social-media {
+        margin-left: 0px;
+    }
+}
+
+  
+    
+    @media only screen and (max-width: 768px) and (min-width: 431px) {
+    .hero { 
+        width: 100%;
+    }
+
+    .Online-Training .container {
+        margin-top: 200px;
+    }
+    .Most-Trusted .statistic {
+        width: 60%;
+        margin-bottom: 30px;
+        margin-top: -20px;
+    }
+    .Video .row{
+        display: flex;
+        flex-direction: column;
+    }
+    .Video .child {
+        width: 100%;
+    }
+    .skileton {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-left:-160px;
+    }
+    .frameFirstLine {
+        flex-direction: row;
+        width: 308px;
+    }
+    .Subscribe .search {
+        width: 70%;
+    }
+    .Subscribe .btnSubscribe {
+        margin-left: 500px;
+    }
+    .Credit .row .social-media {
+        margin-left: 0px;
+    }
+    .About-Company .row .col-md-2 {
+        margin-left: 50px;
+    }
+    .About-Company .row .col-md-4 {
+        margin-top: 50px;
+        margin-left: 250px;
+    } 
+    }
